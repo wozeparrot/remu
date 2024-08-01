@@ -1,2 +1,5 @@
 /target
 /extra
+
+.direnv/
+result
